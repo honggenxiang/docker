@@ -1,2 +1,3 @@
-data
-logs
+docker-es/data/
+docker-es/logs/
+.DS_Store
