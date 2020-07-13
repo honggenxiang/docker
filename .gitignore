@@ -1,4 +1,4 @@
-docker-es/data/
-docker-es/logs/
+es/data/
+es/logs/
 .DS_Store
 nginx/log/
